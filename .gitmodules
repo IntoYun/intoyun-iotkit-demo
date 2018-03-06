@@ -1,0 +1,3 @@
+[submodule "src/intoyun-iotkit-sdk"]
+	path = src/intoyun-iotkit-sdk
+	url = https://github.com/IntoYun/intoyun-iotkit-sdk
