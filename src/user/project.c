@@ -125,7 +125,7 @@ void userHandle(void)
     }
 }
 
-int main(void)
+int userMain(void)
 {
     userInit();
     while(1) {
