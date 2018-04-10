@@ -10,4 +10,5 @@ ctags
 # 工程临时文件
 .intoiotenvs
 size
+src/sdkconfig.h
 
