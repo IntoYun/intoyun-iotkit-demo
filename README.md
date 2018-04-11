@@ -31,7 +31,7 @@ git clone --recursive https://github.com/IntoYun/intoyun-iotkit-demo.git
 - [esp8266硬件平台](#4-esp8266硬件平台)
 - [esp32硬件平台](#5-esp32硬件平台)
 
-### 1.Linux硬件平台
+### 1 Linux硬件平台
 
 #### 1.1 代码编写
 
@@ -58,7 +58,7 @@ intoyuniot run -e linux_i686         # 编译32位程序
 ./.intoiotenvs/linux_i686/program
 ```
 
-### 2.MacOS硬件平台
+### 2 MacOS硬件平台
 
 #### 2.1 代码编写
 
@@ -79,7 +79,7 @@ intoyuniot run -e native             # 编译程序
 ./.intoiotenvs/native/program
 ```
 
-### 3.Windows硬件平台
+### 3 Windows硬件平台
 
 #### 3.1 代码编写
 
@@ -100,7 +100,7 @@ intoyuniot run -e windows_x86        # 编译程序
 ./.intoiotenvs/windows_x86/program
 ```
 
-### 4.esp8266硬件平台
+### 4 esp8266硬件平台
 
 #### 4.1 代码编写
 
@@ -121,7 +121,7 @@ intoyuniot run -e esp8266 -t upload  # 编译和下载
 ./.intoiotenvs/esp8266/program
 ```
 
-### 5.esp32硬件平台
+### 5 esp32硬件平台
 
 #### 5.1 代码编写
 
