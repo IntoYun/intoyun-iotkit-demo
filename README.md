@@ -17,6 +17,12 @@
 
 ```
 
+## 下载工程
+
+```
+git clone --recursive https://github.com/IntoYun/intoyun-iotkit-demo.git
+```
+
 ## 项目实例开发
 
 ### 1. Linux硬件平台
