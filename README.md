@@ -115,12 +115,6 @@ intoyuniot run -t clean              # 清除临时文件
 intoyuniot run -e esp8266 -t upload  # 编译和下载
 ```
 
-#### 4.3 程序运行
-
-```
-./.intoiotenvs/esp8266/program
-```
-
 ### 5 esp32硬件平台
 
 #### 5.1 代码编写
@@ -134,11 +128,5 @@ intoyuniot run -e esp8266 -t upload  # 编译和下载
 ```
 intoyuniot run -t clean              # 清除临时文件
 intoyuniot run -e esp32 -t upload    # 编译和下载
-```
-
-#### 5.3 程序运行
-
-```
-./.intoiotenvs/esp32/program
 ```
 
