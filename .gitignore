@@ -11,7 +11,7 @@ ctags
 .intoiotenvs
 size
 
-src/user/*.c
-src/user/*.h
+src/user/inc
+src/user/src
 src/sdkconfig.h
 
