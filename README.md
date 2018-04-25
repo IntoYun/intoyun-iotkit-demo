@@ -11,7 +11,7 @@
 +-- lib                       : 库目录
 +-- src                       : 源文件目录
     +-- intoyun-iotkit-sdk    : 第三方设备SDK
-    +-- apps                  : 用户应用代码
+    +-- user                  : 用户应用代码
 +-- intoyuniot.ini            : intoyuniot配置文件
 +-- README.md                 : 项目说明文件
 
@@ -37,7 +37,7 @@ git clone --recursive https://github.com/IntoYun/intoyun-iotkit-demo.git
 
 用户可以把示例代码复制到工程中，具体如下：
 
-复制`src/intoyun-iotkit-sdk/examples/smartLight/destop/`到`src/apps/`中。
+复制`src/intoyun-iotkit-sdk/examples/smartLight/destop/`到`src/user/`中。
 
 #### 1.2 程序编译
 
@@ -64,7 +64,7 @@ intoyuniot run -e linux_i686         # 编译32位程序
 
 用户可以把示例代码复制到工程中，具体如下：
 
-复制`src/intoyun-iotkit-sdk/examples/smartLight-destop/`到`src/apps/`中。
+复制`src/intoyun-iotkit-sdk/examples/smartLight-destop/`到`src/user/`中。
 
 #### 2.2 程序编译
 
@@ -85,7 +85,7 @@ intoyuniot run -e native             # 编译程序
 
 用户可以把示例代码复制到工程中，具体如下：
 
-复制`src/intoyun-iotkit-sdk/examples/smartLight-destop/`到`src/apps/`中。
+复制`src/intoyun-iotkit-sdk/examples/smartLight-destop/`到`src/user/`中。
 
 #### 3.2 程序编译
 
@@ -106,7 +106,7 @@ intoyuniot run -e windows_x86        # 编译程序
 
 用户可以把示例代码复制到工程中，具体如下：
 
-复制`src/intoyun-iotkit-sdk/examples/smartLight/esp8266/`到`src/apps/`中。
+复制`src/intoyun-iotkit-sdk/examples/smartLight/esp8266/`到`src/user/`中。
 
 #### 4.2 程序编译
 
@@ -121,7 +121,7 @@ intoyuniot run -e esp8266 -t upload  # 编译和下载
 
 用户可以把示例代码复制到工程中，具体如下：
 
-复制`src/intoyun-iotkit-sdk/examples/smartLight/esp32/`到`src/apps/`中。
+复制`src/intoyun-iotkit-sdk/examples/smartLight/esp32/`到`src/user/`中。
 
 #### 5.2 程序编译
 
