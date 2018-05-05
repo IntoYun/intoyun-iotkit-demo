@@ -64,7 +64,7 @@ intoyuniot run -e linux_i686         # 编译32位程序
 
 用户可以把示例代码复制到工程中，具体如下：
 
-复制`src/intoyun-iotkit-sdk/examples/smartLight-destop/`到`src/user/`中。
+复制`src/intoyun-iotkit-sdk/examples/smartLight/destop/`到`src/user/`中。
 
 #### 2.2 程序编译
 
@@ -85,7 +85,7 @@ intoyuniot run -e native             # 编译程序
 
 用户可以把示例代码复制到工程中，具体如下：
 
-复制`src/intoyun-iotkit-sdk/examples/smartLight-destop/`到`src/user/`中。
+复制`src/intoyun-iotkit-sdk/examples/smartLight/destop/`到`src/user/`中。
 
 #### 3.2 程序编译
 
