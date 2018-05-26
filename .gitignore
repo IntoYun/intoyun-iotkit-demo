@@ -6,6 +6,7 @@ GPATH
 GRTAGS
 GTAGS
 ctags
+tags
 
 # 工程临时文件
 .intoiotenvs
@@ -14,4 +15,5 @@ size
 src/user/inc
 src/user/src
 src/sdkconfig.h
+
 
